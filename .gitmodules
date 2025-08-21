@@ -1,3 +1,6 @@
 [submodule "dags/dbt/datapipeline"]
 	path = dags/dbt/datapipeline
 	url = https://github.com/natashagmueller/data_pipeline
+[submodule "dags/dbt/data_pipeline"]
+	path = dags/dbt/data_pipeline
+	url = https://github.com/natashagmueller/data_pipeline
